@@ -1,0 +1,19 @@
+body{
+	background:rgb(244,64,100);
+	background-image:url(../img/download.jpg);
+	background-repeat:no-repeat;
+	background-size:50% 50%;
+	background-position:center;
+	background-attachment:fixed;
+	
+}
+h1{
+	text-align:center;
+	
+	
+	}
+
+
+.kk{
+	color:blue;
+}
